@@ -157,7 +157,6 @@ Success (200):
     "code_respon": 200
 }
 ```
-```json
 
 Error (400):
 ```json
